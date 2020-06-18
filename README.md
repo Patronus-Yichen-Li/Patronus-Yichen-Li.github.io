@@ -7,14 +7,13 @@ If you want to download my CV with pdf version, please click [here.](/CV.pdf)
 - Address: Gaoke Shangdu Garden, #12 Zhangbaxi Road, Yanta District, Xi'an, Shaanxi Province, China
 
 ## Educational Experiences
-#### Huazhong University of Science and Technology (HUST), Wuhan, China
+### Huazhong University of Science and Technology (HUST), Wuhan, China
 - Time Period: 2016.09~2020.06
-- Mesurement & Control Technology and Instrumentations, School of Artificial Intelligence and Automation
+- Measurement & Control Technology and Instrumentations, School of Artificial Intelligence and Automation
 - GPA: 3.4/4.0;   Rank: 14/46(30%)
-
-#### Summer School in University of Illinois, Urbana Champagne (UIUC), U.S.
+### Summer School in University of Illinois, Urbana Champagne (UIUC), U.S.
 - Time Period: 2017.07~08
-- Completed Course: Control Systems: 98/100 (A+); Information Science and Strategy: 89.78/100 (B+)
+- Completed Courses: Control Systems: 98/100 (A+); Information Science and Strategy: 89.78/100 (B+)
 
 ## Research Experiences
 ### A model and data bas ed SOFC performance reasoning and optimization method
