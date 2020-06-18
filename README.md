@@ -1,5 +1,5 @@
 # Yichen Li's CV
-If you want to download my CV with pdf version, please click [here.](/CV-LYC.pdf)
+If you want to download my CV with pdf version, please click [here.](/CV.pdf)
 
 ## Basic Information
 - DOB: 05/21/1998
