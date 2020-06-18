@@ -1,4 +1,3 @@
-# Yichen Li's CV
 If you want to download my CV with pdf version, please click [here.](/CV.pdf)
 
 ## Basic Information
