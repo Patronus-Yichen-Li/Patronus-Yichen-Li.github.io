@@ -11,12 +11,13 @@ If you want to download my CV with pdf version, please click [here.](/CV.pdf)
 - Time Period: 2016.09~2020.06
 - Mesurement & Control Technology and Instrumentations, School of Artificial Intelligence and Automation
 - GPA: 3.4/4.0;   Rank: 14/46(30%)
+
 #### Summer School in University of Illinois, Urbana Champagne (UIUC), U.S.
 - Time Period: 2017.07~08
 - Completed Course: Control Systems: 98/100 (A+); Information Science and Strategy: 89.78/100 (B+)
 
 ## Research Experiences
-#### A model and data bas ed SOFC performance reasoning and optimization method
+### A model and data bas ed SOFC performance reasoning and optimization method
 ##### Time period: 2020.02~Present
 ##### Supervisor & Location: Professor Xi Li, Fuel Cell Research Center of HUST
 ##### Statement: Publishing a patent based on this method through Engineering Research Institute of HUST
@@ -25,7 +26,7 @@ If you want to download my CV with pdf version, please click [here.](/CV.pdf)
 - The PSO (Particle Swarm Optimization algorithm) is applied to optimize these coefficients. And transfer the model to state space. Granger causality test is performed on each variable in the actual system operating data to obtain the causality relationship of each variable in the actual situation
 - The PSO (Particle Swarm Optimization algorithm) is applied to optimize these coefficients. And transfer the model to state space. Granger causality test is performed on each variable in the actual system operating data to obtain the causality relationship of each variable in the actual situation
 
-#### SOFC System Health Prediction and Fault Detection Based on Big Data and Machine Learning
+### SOFC System Health Prediction and Fault Detection Based on Big Data and Machine Learning
 ##### Time Period: 2019/03~2020/01
 ##### Supervisor & Location: Professor Xi Li, Fuel Cell Research Center of HUST
 ##### Objectives: To predict the running state of SOFC(Solid Oxide Fuel Cell) system by algorithm and automatically analyze the failure cause to adjust the avoidable fault and report the inevitab le fault that needs to be fixed manually
@@ -33,14 +34,14 @@ If you want to download my CV with pdf version, please click [here.](/CV.pdf)
 - Obtained a possible future trend of the net output po wer of the system simulated by the Wiener Process and compared it with the actual system operation results so as to determine whether the fault occurred, and then used the BP neural network to
 detect the fault type
 
-#### PMT Signal Processing Based on Machine Learning and MVT
+### PMT Signal Processing Based on Machine Learning and MVT
 ##### Time Period: 2019/05~2019/12
 ##### Supervisor & Location: Professor D’Nicola, HUST PETLab
 ##### Objectives: To process data sampled by Matlab from continuous signals of ADC devices in low sampling rate to make it obtain the total energy value of the whole frequency band
 - Collected data using Matlab, and then filtered several equal voltage points as network output from the sampling data with MVT methodology . Analyzed the output energy of ADC sampling points with BP Neural Network & CNN (Convolutional Neural Network) after the input points was confirmed
 - To employ Tensorflow to edit the activation function and weight matrix to achieve more accurate results, conduct spectral analysis on the output to obtain the results of Compt on continuum, full energy peak and escape peak, and interpret the measured sample state according to the results
 
-#### A Study of Deep Learning System Based on Memristor
+### A Study of Deep Learning System Based on Memristor
 ##### Time Period: 2017/09~2018/06
 ##### Supervisor & Location: Professor Shiping Wen, HUST
 ##### Objectives: : to work out a neural network model adapted to memristor chips to meet the high computing capability requirements brought by deep learning
