@@ -41,7 +41,7 @@ detect the fault type
 - Collected data using Matlab, and then filtered several equal voltage points as network output from the sampling data with MVT methodology . Analyzed the output energy of ADC sampling points with BP Neural Network & CNN (Convolutional Neural Network) after the input points was confirmed
 - To employ Tensorflow to edit the activation function and weight matrix to achieve more accurate results, conduct spectral analysis on the output to obtain the results of Compt on continuum, full energy peak and escape peak, and interpret the measured sample state according to the results
 
-#### A Study of Deep Learning System Based on MemristorT
+#### A Study of Deep Learning System Based on Memristor
 ##### Time Period: 2017/09~2018/06
 ##### Supervisor & Location: Professor Shiping Wen, HUST
 ##### Objectives: : to work out a neural network model adapted to memristor chips to meet the high computing capability requirements brought by deep learning
